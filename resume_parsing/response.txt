@@ -1,0 +1,113 @@
+//This is a sample response that we get (This is for candidate Ananya Rao)
+
+
+{
+  "source_type": "resume",
+  "source_file": "Ananya Rao.resume.pdf",
+  "company": "Not specified",
+  "role": "Software Engineer, Backend Engineer",
+  "skills": [
+    {
+      "skill_name": "C++",
+      "category_code": "COD",
+      "evidence": "C++ listed in Technical Skills",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Python",
+      "category_code": "COD",
+      "evidence": "Python listed in Technical Skills",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Java",
+      "category_code": "COD",
+      "evidence": "Java listed in Technical Skills",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Data Structures & Algorithms",
+      "category_code": "DSA",
+      "evidence": "Data Structures & Algorithms listed in Technical Skills",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Competitive Programming",
+      "category_code": "DSA",
+      "evidence": "Solved 350+ problems on competitive programming platforms",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Object-Oriented Design",
+      "category_code": "OOD",
+      "evidence": "Object-Oriented Design listed in Technical Skills",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Design Patterns (Factory, Strategy)",
+      "category_code": "OOD",
+      "evidence": "Designed a parking-lot management system in Java using OOP design patterns (Factory, Strategy)",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Git",
+      "category_code": "SWE",
+      "evidence": "Git listed in Technical Skills",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Linux",
+      "category_code": "OS",
+      "evidence": "Linux listed in Technical Skills",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Operating Systems",
+      "category_code": "OS",
+      "evidence": "Operating Systems listed in Technical Skills",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Multithreading",
+      "category_code": "OS",
+      "evidence": "Implemented a multithreaded job scheduler in C++ simulating OS-level process scheduling algorithms",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Computer Networks",
+      "category_code": "NETW",
+      "evidence": "Computer Networks listed in Technical Skills",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Network Programming",
+      "category_code": "NETW",
+      "evidence": "Built a real-time chat backend",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Distributed Systems",
+      "category_code": "SYSD",
+      "evidence": "Built a distributed URL-shortening service with a Redis-backed cache and a horizontally-scalable API layer",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Caching (Redis)",
+      "category_code": "SYSD",
+      "evidence": "Redis-backed cache in distributed URL-shortening service",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Scalability",
+      "category_code": "SYSD",
+      "evidence": "Horizontally-scalable API layer",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Rate Limiter",
+      "category_code": "SYSD",
+      "evidence": "Shipped a rate-limiter used in production",
+      "confidence": "high"
+    }
+  ]
+}
