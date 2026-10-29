@@ -1,0 +1,76 @@
+//for the microsfot software engg jd this is the json response that we get
+
+{
+  "source_type": "jd",
+  "source_file": "Microsoft - Software Engineer.pdf",
+  "company": "Microsoft Corporation",
+  "role": "Software Engineer",
+  "skills": [
+    {
+      "skill_name": "Data Structures and Algorithms (hash maps, trees, complexity analysis)",
+      "category_code": "DSA",
+      "evidence": "Strong data structures and algorithms fundamentals — hash maps, trees, and complexity analysis",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Practical Coding (pattern matching, interval problems, large input performance)",
+      "category_code": "COD",
+      "evidence": "Practical coding skills — pattern matching, interval problems, and writing code that performs well on large inputs",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Operating Systems (process scheduling, virtual memory, concurrency primitives)",
+      "category_code": "OS",
+      "evidence": "Working knowledge of operating systems (process scheduling, virtual memory, concurrency primitives)",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Networking (REST APIs, timeouts, request lifecycle)",
+      "category_code": "NETW",
+      "evidence": "core networking (REST APIs, timeouts, request lifecycle)",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "System Design (cloud storage/notification service scalability, fault tolerance)",
+      "category_code": "SYSD",
+      "evidence": "Ability to design at the system level — sketch a cloud-based storage or notification service and reason about scalability and fault tolerance",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Object-Oriented Design (SOLID principles)",
+      "category_code": "OOD",
+      "evidence": "Understanding of object-oriented design and SOLID principles",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Software Engineering Practices (clean code, testing strategy, technical debt)",
+      "category_code": "SWE",
+      "evidence": "Software engineering maturity — clean code habits, a real testing strategy, and comfort talking about technical debt honestly",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Communication (describe problems, collaborate across teams)",
+      "category_code": "COMM",
+      "evidence": "Strong communication — able to describe a hard problem you solved and how you collaborate across teams",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Agile Methodologies (participate in Agile ceremonies, design reviews)",
+      "category_code": "SWE",
+      "evidence": "Participate in Agile ceremonies and design reviews with your team",
+      "confidence": "medium"
+    },
+    {
+      "skill_name": "Cloud Infrastructure (Azure or similar)",
+      "category_code": "CLOUD",
+      "evidence": "Preferred: Exposure to cloud infrastructure (Azure or similar)",
+      "confidence": "high"
+    },
+    {
+      "skill_name": "Collaborative Codebase Contributions",
+      "category_code": "SWE",
+      "evidence": "Preferred: contributions to a shared codebase in a team setting",
+      "confidence": "high"
+    }
+  ]
+}
