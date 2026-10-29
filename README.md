@@ -32,10 +32,10 @@ Shows readiness against a target role using the RADIX competency framework. It c
 
 Matches one student against one specific job posting. The user selects the skills required for the job and the expected level for each skill. The module then shows:
 
-- Overall match score
-- Skills that meet the requirement
-- Skill gaps
-- Recommended focus areas
+- overall match score
+- skills that meet the requirement
+- skill gaps
+- recommended focus areas
 
 ## Candidate Flow
 
@@ -59,3 +59,38 @@ Clone the repository and open the project folder.
 ```bash
 git clone https://github.com/prakritimalik24/Bootcamp_Hackathon.git
 cd Bootcamp_Hackathon
+```
+
+Install the required packages:
+
+```bash
+pip install streamlit supabase
+```
+
+Create `.streamlit/secrets.toml` and add the Supabase credentials:
+
+```toml
+SUPABASE_URL = "your-supabase-project-url"
+SUPABASE_KEY = "your-supabase-anon-key"
+```
+
+Start the Streamlit app:
+
+```bash
+streamlit run app.py
+```
+
+The app opens at `http://localhost:8501`.
+
+## Database Tables Used
+
+- `Profiles` — candidate details, self-reported skills, education, and experience
+- `skill_set_master` — RADIX 12-skill competency framework
+- `student_skill_levels` — proficiency level for each candidate and skill
+- `skill_evidence` — optional portfolio, project, GitHub, or certificate evidence
+
+## Team
+
+**Team talenciaglobal**
+
+Built for the RADIX Talent Match Hackathon.
